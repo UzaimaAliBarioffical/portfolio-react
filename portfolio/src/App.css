@@ -140,24 +140,4 @@ color:rgb(0, 0, 0);
 .project{
     margin-top: 8em;
 }
-.contact{
-    /* background: #c94a4a; */
-    height: 100vh;
-    margin-top: 20px;
-    /* text-align: center ; */
-    
-}
-.input-text{
-    /* margin-top: 100px; */
-    position: relative;
-margin: 4px;
 
-    top: 100px;
-}
-input{
-    height: 3em;
-    width: 16em;
-    border-radius: 40px;
-    text-align: center;
-    margin: 20px;
-}
